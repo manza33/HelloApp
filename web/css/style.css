@@ -1,0 +1,13 @@
+body {
+    font-family: fantasy;
+}
+
+.container {
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    background-color: lightpink;
+    border : 1px crimson;
+    border-radius: 5px;
+    padding: 10px;
+}
